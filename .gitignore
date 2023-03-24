@@ -12,6 +12,7 @@ events.out.tfevents.*
 .Python
 my_trainer/
 my_saved_model/
+training_dir/
 build/
 develop-eggs/
 dist/
